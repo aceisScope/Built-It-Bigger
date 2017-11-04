@@ -120,6 +120,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/libjoker/build/libs/libjoker.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="21845103938fce9bf672ac84af526286ddd47ad5">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/libjoker_d924a5541abe45b8c1c1af208dca64cdbfd99686.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
