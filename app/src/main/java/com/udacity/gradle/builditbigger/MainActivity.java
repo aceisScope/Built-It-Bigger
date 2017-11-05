@@ -2,6 +2,7 @@ package com.udacity.gradle.builditbigger;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.VisibleForTesting;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -47,16 +48,19 @@ public class MainActivity extends AppCompatActivity {
         new EndpointsAsyncTask() {
             @Override
             protected void onPostExecute(String s) {
-                if (s != null) {
-                    Intent intent = new Intent(MainActivity.this, JokeDisplayActivity.class);
-                    intent.putExtra("joke", s);
-                    startActivity(intent);
-                } else {
-                    Toast.makeText(MainActivity.this, "There's a problem getting the joke :(", Toast.LENGTH_SHORT).show();
-                }
+                handleJokeServiceResponse(s);
             }
         }.execute();
     }
 
-
+    @VisibleForTesting
+    public void handleJokeServiceResponse(String s) {
+        if (s != null) {
+            Intent intent = new Intent(MainActivity.this, JokeDisplayActivity.class);
+            intent.putExtra("joke", s);
+            startActivity(intent);
+        } else {
+            Toast.makeText(MainActivity.this, "There's a problem getting the joke :(", Toast.LENGTH_SHORT).show();
+        }
+    }
 }
