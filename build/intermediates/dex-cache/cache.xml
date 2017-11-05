@@ -3,51 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_94c2cc2d4d4da9cdf2ec4f2a0b048ea2b358177f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_459b70afe2dcfb6fa6d6fcc3ca740af6ac4f8427.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_53d6c3fd41cd06ec0c808ab22a71b421b5a598b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b51db8469db9b3e6ba708f5d26843a84a561fa5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d474465ebfc44384051098f4c94a0b1f2a914896.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,30 +21,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.8.0_259c3641cf6d19082d6bf6a5966bb6cd63254f9f.jar" />
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d474465ebfc44384051098f4c94a0b1f2a914896.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/libjoker/build/libs/libjoker.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a447a4efbe638968a5ce17c9af8b3186a624ae24.jar" />
+        sha1="1a407a49262320a807d473cd76b152c9f69244e2">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/libjoker_d924a5541abe45b8c1c1af208dca64cdbfd99686.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_c0e64f44dc7bb8eb9fe4d829e51afb80f562472c.jar" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_e429fa0286b56976c95f704cb02fe7b32ca9d8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b51db8469db9b3e6ba708f5d26843a84a561fa5f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,42 +75,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4e010de68416f73f612cce5a63853fe366434a5c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/libjoker/build/libs/libjoker.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="21845103938fce9bf672ac84af526286ddd47ad5">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/libjoker_d924a5541abe45b8c1c1af208dca64cdbfd99686.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_b64cedff252a1530662fda69db9acc01a89863d7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_abb7e1e399e22e5a72f6c622df1ed738ff918bc7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -156,12 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jar="/Users/binghuiliu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_66998fafe9c2e4707909d1edf255385e8c0a189b.jar" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_36cef929b3fc613b3834f849262c37fc98877d94.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,21 +111,120 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_e429fa0286b56976c95f704cb02fe7b32ca9d8a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
         <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.8.0_be518fd6af8d9e048a69b0d4fbcb99d13fe16332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_94c2cc2d4d4da9cdf2ec4f2a0b048ea2b358177f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.8.0_259c3641cf6d19082d6bf6a5966bb6cd63254f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_c0e64f44dc7bb8eb9fe4d829e51afb80f562472c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_66998fafe9c2e4707909d1edf255385e8c0a189b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/FinalProject/libjokedisplay/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80bdb00f89f07892456ee679c058922066ca3bb8">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/FinalProject-libjokedisplay-unspecified_25d4abb74bf407c7ae57a87c874343b4aa6a571f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_99af8496511e748a2204f9f669062390c7a0da52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_459b70afe2dcfb6fa6d6fcc3ca740af6ac4f8427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_53d6c3fd41cd06ec0c808ab22a71b421b5a598b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a447a4efbe638968a5ce17c9af8b3186a624ae24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4e010de68416f73f612cce5a63853fe366434a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_b64cedff252a1530662fda69db9acc01a89863d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_abb7e1e399e22e5a72f6c622df1ed738ff918bc7.jar" />
     </item>
     <item
         is-multidex="false"
