@@ -44,11 +44,18 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view) {
-        Joker joker = new Joker();
-
-        Intent intent = new Intent(this, JokeDisplayActivity.class);
-        intent.putExtra("joke", joker.getAJoke());
-        startActivity(intent);
+        new EndpointsAsyncTask() {
+            @Override
+            protected void onPostExecute(String s) {
+                if (s != null) {
+                    Intent intent = new Intent(MainActivity.this, JokeDisplayActivity.class);
+                    intent.putExtra("joke", s);
+                    startActivity(intent);
+                } else {
+                    Toast.makeText(MainActivity.this, "There's a problem getting the joke :(", Toast.LENGTH_SHORT).show();
+                }
+            }
+        }.execute();
     }
 
 

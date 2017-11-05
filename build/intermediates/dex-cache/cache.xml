@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_d8b67f698345867fa78789fed2a8bcc3819156d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -34,7 +43,7 @@
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="1a407a49262320a807d473cd76b152c9f69244e2">
+        sha1="71510fa406997711ff8bc7948ef170d53daf0b8e">
         <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/libjoker_d924a5541abe45b8c1c1af208dca64cdbfd99686.jar" />
     </item>
     <item
@@ -45,6 +54,15 @@
         revision="24.0.3"
         sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
         <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_e429fa0286b56976c95f704cb02fe7b32ca9d8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_3f8356cf115169fceacd9c04da5065053733bcdf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.23.0_ac75e4bb64807c98814bee1f942e23b24d340f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -84,12 +111,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_85dd3269d8abc2d7ad28a1cb346efb75a357d96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/binghuiliu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_36cef929b3fc613b3834f849262c37fc98877d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/Documents/Hobby/FinalProject/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ef1a0578a4955b8e720c8329fd8674373c92cb8">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/backend-android-endpoints_b9b65bdc4505e5f83b9e67fcb41ff72a54f3c1b3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,6 +165,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/google-http-client-1.23.0_1118c0f50c71548958230bb75da28435f853c57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -144,6 +198,33 @@
         revision="24.0.3"
         sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
         <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_c0e64f44dc7bb8eb9fe4d829e51afb80f562472c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/google-api-client-1.23.0_15ddd71455470ba6d400fbdbbfd1225b4e85d65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.23.0_2e9c07fde78025c9e80496576e14de744021ef7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.23.0/1bbe77a8594d7892571266392b8a7dd0a5980664/google-http-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1bbe77a8594d7892571266392b8a7dd0a5980664">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.23.0_88ad64ae476ddd77464a533c97d9acf3750c505b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -198,6 +279,15 @@
         revision="24.0.3"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
         <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a447a4efbe638968a5ce17c9af8b3186a624ae24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/binghuiliu/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.23.0/b95521559faf49989ff036a5b15fd16476bdc955/google-api-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b95521559faf49989ff036a5b15fd16476bdc955">
+        <dex dex="/Users/binghuiliu/Documents/Hobby/FinalProject/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.23.0_368ac61167d3c371d1d36d6ff2b9d103763308b1.jar" />
     </item>
     <item
         is-multidex="false"
