@@ -24,6 +24,8 @@ public class EndpointsAsyncTaskTest extends InstrumentationTestCase {
         // create  a signal to let us know when our task is done.
         final CountDownLatch signal = new CountDownLatch(1);
 
+        final String joke = null;
+
     /* Just create an in line implementation of an asynctask. Note this
      * would normally not be done, and is just here for completeness.
      * You would just use the task you want to unit test in your project.
@@ -32,6 +34,7 @@ public class EndpointsAsyncTaskTest extends InstrumentationTestCase {
             @Override
             protected void onPostExecute(String s) {
                 signal.countDown();
+                assertNotNull(s);
             }
         };
 
@@ -51,24 +54,4 @@ public class EndpointsAsyncTaskTest extends InstrumentationTestCase {
         // The task is done, and now you can assert some things!
         assertTrue(signal.await(30, TimeUnit.SECONDS));
     }
-
-    public void testJokeDownload() {
-
-        try {
-            EndpointsAsyncTask task = new EndpointsAsyncTask();
-            task.execute();
-
-            String result = null;
-            try {
-                result = task.get();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-            assertNotNull(result);
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
 }
