@@ -41,4 +41,29 @@ dependencies {
     compile project(path: ':backend', configuration: 'android-endpoints')
 }
 
+task runAppEngine (dependsOn: ":backend:appengineRun") {
+    project(":backend").afterEvaluate { backend ->
+        backend.extensions.appengine.daemon = true
+    }
+    doLast {
+        println "Server Started"
+    }
+}
 
+task runAndroidTest (dependsOn: ":app:connectedCheck") {
+    shouldRunAfter 'runAppEngine'
+    doLast {
+        println "AndroidTest Finished"
+    }
+}
+
+task stopAppEngine (dependsOn: ":backend:appengineStop") {
+    shouldRunAfter 'runAndroidTest'
+    doLast {
+        println "Server Stopped"
+    }
+}
+
+task runAndroidTestWithServer {
+    dependsOn = ['runAppEngine', 'runAndroidTest', 'stopAppEngine']
+}
